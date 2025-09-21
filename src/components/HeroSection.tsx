@@ -15,7 +15,7 @@ const HeroSection: React.FC = () => {
       <div 
         className="absolute inset-0 bg-cover bg-center bg-no-repeat transform scale-105"
         style={{
-          backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('https://images.pexels.com/photos/1271619/pexels-photo-1271619.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1')`
+          backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('https://images.pexels.com/photos/1271619/pexels-photo-1271619.jpeg')`
         }}
       />
       

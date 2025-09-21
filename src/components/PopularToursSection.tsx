@@ -8,35 +8,35 @@ const PopularToursSection: React.FC = () => {
     {
       id: 1,
       name: 'Hundru Falls',
-      image: 'https://images.pexels.com/photos/417074/pexels-photo-417074.jpeg?auto=compress&cs=tinysrgb&w=800',
+      image: 'https://i.pinimg.com/736x/e9/b6/9f/e9b69f6687e891d068881d9847d6a0f7.jpg',
       description: 'Spectacular 98-meter waterfall surrounded by lush greenery',
       duration: '2 Days'
     },
     {
       id: 2,
       name: 'Netarhat',
-      image: 'https://images.pexels.com/photos/1562058/pexels-photo-1562058.jpeg?auto=compress&cs=tinysrgb&w=800',
+      image: 'https://i.pinimg.com/474x/39/9c/0c/399c0cf0be265752eadd3a02d08e3b35.jpg',
       description: 'Queen of Chotanagpur with breathtaking sunrise views',
       duration: '3 Days'
     },
     {
       id: 3,
       name: 'Parasnath Hill',
-      image: 'https://images.pexels.com/photos/1366919/pexels-photo-1366919.jpeg?auto=compress&cs=tinysrgb&w=800',
+      image: 'https://i.pinimg.com/474x/fc/af/5a/fcaf5ab11446e08ee81333daadf40163.jpg',
       description: 'Highest peak in Jharkhand, sacred Jain pilgrimage site',
       duration: '1 Day'
     },
     {
       id: 4,
       name: 'Betla National Park',
-      image: 'https://images.pexels.com/photos/1059823/pexels-photo-1059823.jpeg?auto=compress&cs=tinysrgb&w=800',
+      image: 'https://i.pinimg.com/474x/cf/fc/33/cffc3311a2dfbb58e7b66fa849230cdc.jpg',
       description: 'Wildlife sanctuary home to tigers, elephants, and deer',
       duration: '2 Days'
     },
     {
       id: 5,
       name: 'Baidyanath Temple',
-      image: 'https://images.pexels.com/photos/1007426/pexels-photo-1007426.jpeg?auto=compress&cs=tinysrgb&w=800',
+      image: 'https://i.pinimg.com/474x/fb/19/61/fb19617db79e77d29babfa8c189077cf.jpg',
       description: 'One of the twelve Jyotirlingas, ancient spiritual center',
       duration: '1 Day'
     }
